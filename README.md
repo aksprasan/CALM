@@ -1,6 +1,6 @@
-# MindCare Chatbot
+# CALM Chatbot
 
-**MindCare** is an AI-powered chatbot designed to support individuals struggling with depression. It provides empathetic counseling, encouragement, and practical guidance to help users navigate difficult emotions and improve their mental well-being.
+**CALM**(Counseling Assistance Loneliness Mentor) is an AI-powered chatbot designed to support individuals struggling with depression. It provides empathetic counseling, encouragement, and practical guidance to help users navigate difficult emotions and improve their mental well-being.
 
 ## Features
 
